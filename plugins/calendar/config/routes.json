@@ -1,0 +1,20 @@
+{
+    "routes": [
+        {
+            "method": "GET",
+            "path": "/events",
+            "handler": "calendar.find",
+            "config": {
+                "policies": []
+            }
+        },
+        {
+            "method": "POST",
+            "path": "/events",
+            "handler": "calendar.update",
+            "config": {
+                "policies": []
+            }
+        }
+    ]
+}

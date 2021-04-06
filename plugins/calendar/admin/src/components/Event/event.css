@@ -1,0 +1,7 @@
+.event {
+    width: 360px;
+    flex-shrink: 0;
+    padding: 30px;
+    background-color: white;
+    border-left: 1px solid #E3E9F3;
+}

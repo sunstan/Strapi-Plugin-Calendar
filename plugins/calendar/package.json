@@ -1,0 +1,29 @@
+{
+    "name": "strapi-plugin-calendar",
+    "version": "0.0.0",
+    "strapi": {
+        "name": "Calendrier",
+        "icon": "calendar",
+        "description": ""
+    },
+    "dependencies": {
+        "@buffetjs/core": "^3.3.1",
+        "@buffetjs/custom": "^3.3.1",
+        "@buffetjs/hooks": "^3.3.1",
+        "@buffetjs/styles": "^3.3.1",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@fortawesome/react-fontawesome": "^0.1.13",
+        "@fullcalendar/core": "^5.4.0",
+        "@fullcalendar/daygrid": "^5.4.0",
+        "@fullcalendar/interaction": "^5.4.0",
+        "@fullcalendar/list": "^5.4.0",
+        "@fullcalendar/react": "^5.4.0",
+        "@fullcalendar/timegrid": "^5.4.0",
+        "recoil": "^0.1.2"
+    },
+    "engines": {
+        "node": ">=10.16.0 <=14.x.x",
+        "npm": ">=6.0.0"
+    },
+    "license": "MIT"
+}
