@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Création d'un plugin Strapi avec Full Calendar React
